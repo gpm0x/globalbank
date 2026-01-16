@@ -1,0 +1,155 @@
+{
+  "hero": {
+    "label": "Confira nossas estatísticas",
+    "title": "Sobre nós",
+    "description": "Fazendo história de crédito com serviços bancários",
+    "content": "A Global Bank é uma agência de branding estratégico focada na criação, reformulação e transformação de marcas. Fazemos parcerias com empresas para criar experiências de marca poderosas e envolventes que conectam com os clientes e impulsionam o crescimento dos negócios.",
+    "image": "/images/about.png",
+    "ctaText": "Ler mais"
+  },
+  "stats": [
+    {
+      "value": "$1.5B+",
+      "label": "Ativos sob Gestão"
+    },
+    {
+      "value": "100+",
+      "label": "Clientes Ativos"
+    },
+    {
+      "value": "150+",
+      "label": "Países Atendidos"
+    },
+    {
+      "value": "40+",
+      "label": "Anos de Experiência"
+    }
+  ],
+  "story": {
+    "label": "Confira nossas estatísticas",
+    "title": "Fazendo história de crédito com nightcard",
+    "content": "É um fato estabelecido há muito tempo que um leitor se distrairá com o conteúdo legível de uma página ao olhar para seu layout. O objetivo de usar Lorem Ipsum é que ele tem uma distribuição de letras mais ou menos normal, ao contrário de usar 'Conteúdo aqui, conteúdo aqui', fazendo com que pareça inglês legível.",
+    "images": [
+      "/images/img2.png",
+      "/images/img.png",
+      "/images/img2.png",
+      "/images/img.png"
+    ]
+  },
+  "team": [
+    {
+      "name": "Guy Hawkins",
+      "role": "CEO na Global Bank",
+      "image": "/images/avatar1.png"
+    },
+    {
+      "name": "Brooklyn Simmons",
+      "role": "CFO na Global Bank",
+      "image": "/images/avatar2.png"
+    },
+    {
+      "name": "Floyd Miles",
+      "role": "Head de Marketing Global Bank",
+      "image": "/images/avatar3.png"
+    },
+    {
+      "name": "Jenny Wilson",
+      "role": "Líder de Suporte Global Bank",
+      "image": "/images/avatar4.png"
+    },
+    {
+      "name": "Esther Howard",
+      "role": "Design na Global Bank",
+      "image": "/images/avatar1.png"
+    },
+    {
+      "name": "Leslie Alexander",
+      "role": "Engenheira na Global Bank",
+      "image": "/images/avatar2.png"
+    }
+  ],
+  "jobs": [
+    {
+      "position": "Gerente de Produto, Câmera Instagram",
+      "department": "marketing",
+      "commitment": "Tempo Integral",
+      "location": "Los Angeles",
+      "category": "marketing"
+    },
+    {
+      "position": "Designer UX",
+      "department": "design",
+      "commitment": "Tempo Integral",
+      "location": "São Francisco",
+      "category": "design"
+    },
+    {
+      "position": "Desenvolvedor Frontend Sênior",
+      "department": "engenharia",
+      "commitment": "Tempo Integral",
+      "location": "Remoto",
+      "category": "engenharia-de-software"
+    },
+    {
+      "position": "Gerente de Sucesso do Cliente",
+      "department": "suporte",
+      "commitment": "Tempo Integral",
+      "location": "Nova York",
+      "category": "sucesso-do-cliente"
+    },
+    {
+      "position": "Representante de Vendas",
+      "department": "vendas",
+      "commitment": "Tempo Integral",
+      "location": "Chicago",
+      "category": "vendas"
+    },
+    {
+      "position": "Especialista em Marketing",
+      "department": "marketing",
+      "commitment": "Meio Período",
+      "location": "Austin",
+      "category": "marketing"
+    },
+    {
+      "position": "Engenheiro Backend",
+      "department": "engenharia",
+      "commitment": "Tempo Integral",
+      "location": "Remoto",
+      "category": "engenharia-de-software"
+    },
+    {
+      "position": "Designer de Conteúdo",
+      "department": "design",
+      "commitment": "Contrato",
+      "location": "Portland",
+      "category": "design"
+    }
+  ],
+  "jobCategories": [
+    {
+      "id": "all",
+      "label": "Todos"
+    },
+    {
+      "id": "design",
+      "label": "Design"
+    },
+    {
+      "id": "software-engineering",
+      "label": "Engenharia de Software"
+    },
+    {
+      "id": "customer-success",
+      "label": "Sucesso do Cliente"
+    },
+    {
+      "id": "sales",
+      "label": "Vendas"
+    },
+    {
+      "id": "marketing",
+      "label": "Marketing"
+    }
+  ]
+}

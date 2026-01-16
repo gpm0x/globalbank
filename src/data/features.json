@@ -1,0 +1,62 @@
+{
+  "secureAccessFeatures": [
+    "Uso em tempo real, créditos e saldo atual",
+    "Webhooks para impulsionar casos de uso dinâmicos para clientes",
+    "Funcionalidade de agrupamento de custos para organizar faturas"
+  ],
+  "brandLogos": [
+    "/images/figma.svg",
+    "/images/notion.svg",
+    "/images/slack.svg",
+    "/images/spotify.svg",
+    "/images/twitter.svg",
+    "/images/desktop.svg"
+  ],
+  "whyUsCards": [
+    {
+      "id": 1,
+      "image": "/images/bg-image1.png",
+      "category": "Funcionalidades",
+      "title": "Protegido pelos principais bancos"
+    },
+    {
+      "id": 2,
+      "image": "/images/bg-image2.png",
+      "category": "Segurança",
+      "title": "Protegido pelos principais bancos"
+    },
+    {
+      "id": 3,
+      "image": "/images/bg-image3.png",
+      "category": "Progresso",
+      "title": "Protegido pelos principais bancos"
+    }
+  ],
+  "billingTabs": [
+    {
+      "id": "introduction",
+      "label": "Introdução",
+      "image": "/images/dashboard2.png"
+    },
+    {
+      "id": "aggregation",
+      "label": "Agregação",
+      "image": "/images/dashboard2.png"
+    },
+    {
+      "id": "pricing",
+      "label": "Preços e Créditos",
+      "image": "/images/dashboard2.png"
+    },
+    {
+      "id": "integrations",
+      "label": "Integrações",
+      "image": "/images/dashboard2.png"
+    },
+    {
+      "id": "api",
+      "label": "API e Webhooks",
+      "image": "/images/dashboard2.png"
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "initialTestimonials": {
+    "column1": [
+      {
+        "id": 1,
+        "avatar": "/images/avatar2.png",
+        "name": "Leslie Alexander",
+        "username": "@lesliealexnader",
+        "content": "As finanças são muito importantes para mim. Planejo regularmente minhas despesas e economizo para o futuro.",
+        "time": "5:48 PM",
+        "likes": "232 like",
+        "comments": "81 com."
+      },
+      {
+        "id": 2,
+        "avatar": "/images/avatar2.png",
+        "name": "Brooklyn Simmons",
+        "username": "@brooklynsimmons",
+        "content": "Finanças são uma questão de responsabilidade e disciplina para mim. Tento monitorar minhas despesas e poupanças continuamente para evitar problemas financeiros.",
+        "time": "5:48 PM",
+        "likes": "232 like",
+        "comments": "81 com."
+      }
+    ],
+    "column2": [
+      {
+        "id": 3,
+        "avatar": "/images/avatar3.png",
+        "name": "Kristin Watson",
+        "username": "@kristinawatson",
+        "content": "As finanças são muito importantes para mim. Planejo regularmente minhas despesas e economizo para o futuro.",
+        "time": "5:48 PM",
+        "likes": "232 like",
+        "comments": "81 com."
+      },
+      {
+        "id": 4,
+        "avatar": "/images/avatar3.png",
+        "name": "Rob Mason",
+        "username": "@robmason",
+        "content": "Priorizar as finanças é uma constante para mim. Faço orçamento e economizo regularmente, enfatizando a importância de planejar para o futuro.",
+        "time": "5:48 PM",
+        "likes": "232 like",
+        "comments": "81 com."
+      }
+    ],
+    "column3": [
+      {
+        "id": 5,
+        "avatar": "/images/avatar4.png",
+        "name": "Marvin McKinney",
+        "username": "@marvinmckinney",
+        "content": "Finanças são uma parte da vida que precisa de atenção constante. Tento analisar regularmente minhas despesas",
+        "time": "5:48 PM",
+        "likes": "232 like",
+        "comments": "81 com."
+      },
+      {
+        "id": 6,
+        "avatar": "/images/avatar3.png",
+        "name": "Devon Lane",
+        "username": "@devonlane",
+        "content": "Finanças são uma parte da vida que precisa de atenção constante. Tento analisar regularmente minhas despesas",
+        "time": "5:48 PM",
+        "likes": "232 like",
+        "comments": "81 com."
+      }
+    ],
+    "column4": [
+      {
+        "id": 7,
+        "avatar": "/images/avatar5.png",
+        "name": "Kathryn Murphy",
+        "username": "@kathrynmurphy",
+        "content": "Finanças são uma das coisas mais importantes na vida. Tenho que ter cuidado para não gastar muito e ter dinheiro suficiente para tudo",
+        "extraContent": [
+          "Não sou muito conhecedor de finanças, mas tento ficar por dentro das minhas despesas e aceitar conselhos de especialistas.",
+          "Não gosto de pensar em finanças, mas sei que tenho que cuidar delas. Tento cuidar das minhas economias e controlar minhas despesas."
+        ],
+        "time": "5:48 PM",
+        "likes": "232 like",
+        "comments": "81 com."
+      },
+      {
+        "id": 8,
+        "avatar": "/images/avatar4.png",
+        "name": "Arlene McCoy",
+        "username": "@arlenemccoy",
+        "content": "Finanças são uma parte da vida que precisa de atenção constante. Tento analisar regularmente minhas despesas",
+        "time": "5:48 PM",
+        "likes": "232 like",
+        "comments": "81 com."
+      }
+    ]
+  },
+  "hiddenTestimonials": {
+    "column1": [
+      {
+        "id": 9,
+        "avatar": "/images/avatar1.png",
+        "name": "Bessie Cooper",
+        "username": "@bessiecooper",
+        "content": "Estou interessado em novas tecnologias no campo das finanças, como blockchain ou robo-advisors. Acredito que essas novas ferramentas podem ajudar a gerenciar o dinheiro de forma mais eficiente.",
+        "time": "5:48 PM",
+        "likes": "232 like",
+        "comments": "81 com."
+      },
+      {
+        "id": 10,
+        "avatar": "/images/avatar1.png",
+        "name": "Mike Rochs",
+        "username": "@mikerochs",
+        "content": "A gestão financeira pode ser uma fonte de estresse. Equilibrar orçamentos e tomar decisões prudentes requer consideração cuidadosa, mas é um desafio que navego diligentemente.",
+        "time": "5:48 PM",
+        "likes": "232 like",
+        "comments": "81 com."
+      }
+    ],
+    "column2": [
+      {
+        "id": 11,
+        "avatar": "/images/avatar2.png",
+        "name": "Lucas Floe",
+        "username": "@lucasfloe",
+        "content": "Acredito firmemente que investir em educação e adquirir novas habilidades é fundamental para um futuro financeiro seguro. É um movimento estratégico que se alinha com meu compromisso com a estabilidade financeira.",
+        "time": "5:48 PM",
+        "likes": "232 like",
+        "comments": "81 com."
+      },
+      {
+        "id": 12,
+        "avatar": "/images/avatar2.png",
+        "name": "Jerome Bell",
+        "username": "@jeromebell",
+        "content": "Estou convencido de que investir em educação e adquirir novas habilidades é um fator chave na construção de um futuro financeiro estável.",
+        "extraContent": [
+          "Gerenciar finanças pode ser estressante."
+        ],
+        "time": "5:48 PM",
+        "likes": "232 like",
+        "comments": "81 com."
+      }
+    ],
+    "column3": [
+      {
+        "id": 13,
+        "avatar": "/images/avatar3.png",
+        "name": "Ronald Richards",
+        "username": "@ronaldrichards",
+        "content": "Estou convencido de que investir em educação e adquirir novas habilidades é um fator chave na construção de um futuro financeiro estável.",
+        "extraContent": [
+          "Gerenciar finanças pode ser estressante."
+        ],
+        "time": "5:48 PM",
+        "likes": "232 like",
+        "comments": "81 com."
+      },
+      {
+        "id": 14,
+        "avatar": "/images/avatar8.png",
+        "name": "Kevin Roland",
+        "username": "@kevinroland",
+        "content": "Responsabilidade e disciplina impulsionam minha abordagem às finanças. Monitorar regularmente despesas e economias é uma rotina para mim, garantindo uma postura proativa para evitar possíveis problemas financeiros.",
+        "extraContent": [
+          "Gerenciar finanças pode ser estressante."
+        ],
+        "time": "5:48 PM",
+        "likes": "232 like",
+        "comments": "81 com."
+      }
+    ],
+    "column4": []
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "contact": {
+    "title": "Envie-nos uma mensagem e nossa equipe entrará em contato com você",
+    "subtitle": "Envie uma mensagem",
+    "description": "Global Bank é uma agência de branding estratégico focada na criação, reformulação e transformação de marcas",
+    "phone": "+55 (11) 99999-9999",
+    "email": "contato@globalbank.com.br",
+    "address": "Av. Paulista, 1000 - São Paulo, SP"
+  },
+  "form": {
+    "fields": [
+      {
+        "name": "firstName",
+        "placeholder": "Nome completo",
+        "type": "text",
+        "required": true
+      },
+      {
+        "name": "lastName",
+        "placeholder": "Sobrenome",
+        "type": "text",
+        "required": true
+      },
+      {
+        "name": "email",
+        "placeholder": "E-mail",
+        "type": "email",
+        "required": true
+      },
+      {
+        "name": "company",
+        "placeholder": "Empresa",
+        "type": "text",
+        "required": false
+      }
+    ],
+    "locationOptions": [
+      "Polônia",
+      "Noruega",
+      "França",
+      "Alemanha",
+      "Espanha"
+    ],
+    "submitText": "Enviar Mensagem"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "pricing": {
+    "title": "Preços simples que escalam com o seu negócio",
+    "subtitle": "Escolha um plano acessível repleto dos melhores recursos para engajar seu público, criar fidelidade do cliente e impulsionar vendas.",
+    "monthlyLabel": "Mensal",
+    "annualLabel": "Anualmente",
+    "savings": "Economize 20%"
+  },
+  "plans": [
+    {
+      "id": "basic",
+      "name": "Básico",
+      "description": "Durante esta fase, o design é desenvolvido para atender aos padrões técnicos necessários para",
+      "monthlyPrice": 10,
+      "annualPrice": 20,
+      "features": [
+        "Pesquisa de engajamento principal",
+        "Avaliações baseadas em tópicos",
+        "Avaliações personalizadas baseadas em tópicos",
+        "Mapa de calor e análises filtráveis"
+      ],
+      "ctaText": "Começar agora",
+      "ctaLink": "#",
+      "popular": false
+    },
+    {
+      "id": "business",
+      "name": "Plano de Negócios",
+      "description": "Durante esta fase, o design é desenvolvido para atender aos padrões técnicos necessários para",
+      "monthlyPrice": 25,
+      "annualPrice": 50,
+      "features": [
+        "Pesquisa de engajamento principal",
+        "Avaliações baseadas em tópicos",
+        "Avaliações personalizadas baseadas em tópicos",
+        "Mapa de calor e análises filtráveis"
+      ],
+      "ctaText": "Começar agora",
+      "ctaLink": "#",
+      "popular": true
+    },
+    {
+      "id": "premium",
+      "name": "Premium",
+      "description": "Durante esta fase, o design é desenvolvido para atender aos padrões técnicos necessários para",
+      "monthlyPrice": 50,
+      "annualPrice": 100,
+      "features": [
+        "Pesquisa de engajamento principal",
+        "Avaliações baseadas em tópicos",
+        "Avaliações personalizadas baseadas em tópicos",
+        "Mapa de calor e análises filtráveis"
+      ],
+      "ctaText": "Começar agora",
+      "ctaLink": "#",
+      "popular": false
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Quais são os limites para transferências de dinheiro dos Estados Unidos?",
+      "answer": "Para a maioria das moedas, não há limites para o valor da transferência. Certas moedas podem ter limites definidos por nossos parceiros de pagamento. Você sempre verá o limite no aplicativo Revolut antes de fazer a transferência."
+    },
+    {
+      "question": "É seguro enviar dinheiro com a Revolut?",
+      "answer": "Sim. Os serviços bancários são prestados pelo Metropolitan Commercial Bank, membro FDIC."
+    },
+    {
+      "question": "Como posso fazer uma transferência internacional dos Estados Unidos?",
+      "answer": "Insira os detalhes do destinatário. Você geralmente precisará do nome completo do destinatário, número da conta bancária e código do banco. Alguns métodos de pagamento e países de destino podem exigir informações adicionais."
+    },
+    {
+      "question": "Quanto tempo demora para enviar dinheiro para o exterior dos Estados Unidos?",
+      "answer": "Diferentes métodos de pagamento afetam o tempo de entrega da sua transferência. Pagamentos para outros usuários Revolut e pagamentos com cartão são instantâneos."
+    },
+    {
+      "question": "Para onde posso transferir dinheiro dos Estados Unidos?",
+      "answer": "Transferências para os seguintes países não são suportadas: Afeganistão, Angola, Burkina Faso, Burundi, Camboja, República Centro-Africana, Congo (Brazzaville), Congo (Kinshasa), Cuba, Eritreia, Etiópia, Guiné, Guiné-Bissau, Guiana, Haiti, Irã..."
+    },
+    {
+      "question": "Como rastreio minha transferência?",
+      "answer": "Insira os detalhes do destinatário. Você geralmente precisará do nome completo do destinatário, número da conta bancária e código do banco."
+    }
+  ]
+}

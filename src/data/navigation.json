@@ -1,0 +1,20 @@
+{
+  "navigationItems": [
+    {
+      "to": "/about",
+      "label": "Sobre"
+    },
+    {
+      "to": "/pricing",
+      "label": "Preços"
+    },
+    {
+      "to": "/blog",
+      "label": "Blog"
+    },
+    {
+      "to": "/contact",
+      "label": "Contato"
+    }
+  ]
+}
