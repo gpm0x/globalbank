@@ -8,7 +8,7 @@ import BillingInfrastructureSection from '@features/home/components/billing-infr
 
 function HomePage() {
   return (
-    <PageLayout title="Visite www.pixelrocket.store para aprender como se tornar um desenvolvedor web frontend">
+    <PageLayout title="GlobalBank">
       <HeroSection />
       <WhyUsSection />
       <FeaturesSection />
