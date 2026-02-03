@@ -3,7 +3,7 @@ import AuthSection from '@features/auth/components/auth-section';
 
 function LoginPage() {
   return (
-    <PageLayout title="Entrar - Global Bank">
+    <PageLayout title="GlobalBank">
       <AuthSection type="login" />
     </PageLayout>
   );

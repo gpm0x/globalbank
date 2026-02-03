@@ -7,7 +7,7 @@ import OpenPositionsSection from '@features/about/components/open-positions-sect
 
 function AboutPage() {
   return (
-    <PageLayout title="Sobre Nós - Global Bank">
+    <PageLayout title="GlobalBank">
       <AboutHeroSection />
       <StatsSection />
       <CompanyStorySection />

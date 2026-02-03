@@ -4,7 +4,7 @@ import FAQSection from '@features/pricing/components/faq-section';
 
 function PricingPage() {
   return (
-    <PageLayout title="Preços - Global Bank">
+    <PageLayout title="GlobalBank">
       <PricingSection />
       <FAQSection />
     </PageLayout>
