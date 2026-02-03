@@ -7,7 +7,7 @@ function FAQSection() {
     <section className="py-24 bg-blueGray-950/20">
       <div className="container px-4 mx-auto">
         <div className="text-center mb-20">
-          <h2 className="font-heading text-7xl lg:text-8xl text-white tracking-tighter">
+          <h2 className="font-heading text-4xl md:text-7xl lg:text-8xl text-white tracking-tighter">
             Perguntas Frequentes
           </h2>
         </div>

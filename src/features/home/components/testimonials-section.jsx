@@ -95,7 +95,7 @@ function TestimonialsSection() {
           <span className="inline-block mb-4 text-sm text-green-400 font-medium tracking-tighter">
             Segurança 24/7
           </span>
-          <h2 className="font-heading mb-6 text-6xl lg:text-7xl text-white tracking-8xl md:max-w-md mx-auto">
+          <h2 className="font-heading mb-6 text-4xl md:text-6xl lg:text-7xl text-white tracking-8xl md:max-w-md mx-auto">
             Protegendo você e seu dinheiro
           </h2>
           <p className="mb-20 text-gray-300 md:max-w-md mx-auto">

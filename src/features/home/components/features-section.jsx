@@ -14,16 +14,16 @@ function FeaturesSection() {
           <span className="inline-block mb-4 text-sm text-green-400 font-medium tracking-tighter">
             Cartão Principal
           </span>
-          <h2 className="font-heading text-6xl lg:text-7xl text-white tracking-tighter-xl">
+          <h2 className="font-heading text-4xl md:text-6xl lg:text-7xl text-white tracking-tighter-xl">
             Funcionalidades
           </h2>
         </div>
-        <div className="relative mb-10 py-20 px-16 bg-gradient-radial-dark overflow-hidden border border-gray-900/30 rounded-5xl">
+        <div className="relative mb-10 py-12 px-6 md:py-20 md:px-16 bg-gradient-radial-dark overflow-hidden border border-gray-900/30 rounded-5xl">
           <div className="max-w-6xl mx-auto">
             <div className="relative z-10 flex flex-wrap items-center -m-8">
               <div className="w-full md:w-1/2 p-8">
                 <div className="max-w-md mx-auto text-center">
-                  <h2 className="mb-6 text-6xl text-white tracking-tighter-xl">
+                  <h2 className="mb-6 text-4xl md:text-6xl text-white tracking-tighter-xl">
                     Análises em Tempo Real
                   </h2>
                   <p className="text-white text-opacity-60">
@@ -48,10 +48,10 @@ function FeaturesSection() {
         </div>
         <div className="flex flex-wrap -m-5">
           <div className="w-full md:w-1/2 p-5">
-            <div className="relative px-16 pt-14 pb-16 h-full bg-gradient-radial-dark overflow-hidden border border-gray-900/30 rounded-5xl">
-              <img className="mb-14" src="/images/cards.png" alt="" />
+            <div className="relative px-6 py-12 md:px-16 md:pt-14 md:pb-16 h-full bg-gradient-radial-dark overflow-hidden border border-gray-900/30 rounded-5xl">
+              <img className="mb-14 w-full md:w-auto" src="/images/cards.png" alt="" />
               <div className="relative z-10 max-w-sm text-center mx-auto">
-                <h2 className="mb-6 text-6xl text-white tracking-tighter">
+                <h2 className="mb-6 text-4xl md:text-6xl text-white tracking-tighter">
                   Cartões de Pagamento Inteligentes
                 </h2>
                 <p className="text-white text-opacity-60">
@@ -66,20 +66,20 @@ function FeaturesSection() {
             </div>
           </div>
           <div className="w-full md:w-1/2 p-5">
-            <div className="relative px-16 pt-14 pb-16 h-full bg-gradient-radial-dark overflow-hidden border border-gray-900/30 rounded-5xl">
+            <div className="relative px-6 py-12 md:px-16 md:pt-14 md:pb-16 h-full bg-gradient-radial-dark overflow-hidden border border-gray-900/30 rounded-5xl">
               <div className="mb-14 max-w-sm mx-auto">
                 <div className="flex flex-wrap justify-center">
                   {brandLogos.map((logo, index) => (
-                    <div key={index} className="w-auto p-2">
-                      <div className="flex items-center justify-center w-24 h-24 bg-gradient-radial-dark border border-gray-900/30 rounded-5xl">
-                        <img src={logo} alt="" />
+                    <div key={index} className="w-1/3 sm:w-auto p-2">
+                      <div className="flex items-center justify-center w-full h-24 md:w-24 bg-gradient-radial-dark border border-gray-900/30 rounded-5xl">
+                        <img className="max-w-[60%] md:max-w-none" src={logo} alt="" />
                       </div>
                     </div>
                   ))}
                 </div>
               </div>
               <div className="relative z-10 max-w-sm text-center mx-auto">
-                <h2 className="mb-6 text-6xl text-white tracking-tighter">
+                <h2 className="mb-6 text-4xl md:text-6xl text-white tracking-tighter">
                   Parcerias Globais
                 </h2>
                 <p className="text-white text-opacity-60">

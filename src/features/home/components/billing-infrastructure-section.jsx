@@ -17,7 +17,7 @@ function BillingInfrastructureSection() {
           <span className="inline-block mb-4 text-sm text-green-400 font-medium tracking-tighter">
             Mais sobre nossas funcionalidades
           </span>
-          <h2 className="font-heading text-6xl lg:text-7xl text-white tracking-tighter-xl md:max-w-3xl mx-auto">
+          <h2 className="font-heading text-4xl md:text-6xl lg:text-7xl text-white tracking-tighter-xl md:max-w-3xl mx-auto">
             Infraestrutura de cobrança que acompanha seu negócio
           </h2>
         </div>
@@ -26,8 +26,8 @@ function BillingInfrastructureSection() {
             <div key={tab.id} className="w-auto p-3">
               <button
                 className={`inline-block px-6 py-3 text-sm font-medium tracking-tighter rounded-full transition duration-300 ${activeTab === tab.id
-                    ? 'bg-green-400 text-black'
-                    : 'text-white hover:text-green-400 border border-gray-800 hover:border-green-400'
+                  ? 'bg-green-400 text-black'
+                  : 'text-white hover:text-green-400 border border-gray-800 hover:border-green-400'
                   }`}
                 onClick={() => setActiveTab(tab.id)}
               >

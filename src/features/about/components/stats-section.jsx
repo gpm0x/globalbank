@@ -16,8 +16,8 @@ function StatsSection() {
             {stats.map((stat, index) => (
               <div key={index} className="w-full md:w-1/2 lg:w-1/4 p-11">
                 <div className="text-center">
-                  <h3 className="mb-1.5 text-7xl text-white tracking-4xl">{stat.value}</h3>
-                  <p className="text-gray-300">{stat.label}</p>
+                  <h3 className="mb-1.5 text-5xl md:text-7xl text-white tracking-4xl">{stat.value}</h3>
+                  <p className="text-gray-300 font-medium tracking-tighter">{stat.label}</p>
                 </div>
               </div>
             ))}

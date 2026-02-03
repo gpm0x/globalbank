@@ -19,7 +19,7 @@ function PricingSection() {
       <div className="container px-4 mx-auto">
         <div className="mb-20 md:max-w-2xl text-center mx-auto">
           <span className="inline-block mb-4 text-sm text-green-400 font-medium tracking-tighter">Opções de preços</span>
-          <h2 className="font-heading mb-8 text-7xl lg:text-8xl text-white tracking-7xl lg:tracking-8xl">Compare nossos planos</h2>
+          <h2 className="font-heading mb-8 text-4xl md:text-7xl lg:text-8xl text-white tracking-7xl lg:tracking-8xl">Compare nossos planos</h2>
           <p className="mb-12 text-gray-300 max-w-sm mx-auto">A Global Bank é uma agência de branding estratégico focada na criação, reformulação e gestão de marcas</p>
 
           <PricingToggle isMonthly={isMonthly} onToggle={togglePricing} />

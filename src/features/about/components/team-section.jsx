@@ -12,7 +12,7 @@ function TeamSection() {
       <div className="container px-4 mx-auto">
         <div className="mb-20 md:max-w-xl text-center mx-auto">
           <span className="inline-block mb-4 text-sm text-green-400 font-medium tracking-tighter">nossa equipe</span>
-          <h2 className="font-heading text-7xl lg:text-8xl text-white tracking-7xl lg:tracking-8xl">Nossa Equipe</h2>
+          <h2 className="font-heading text-4xl md:text-7xl lg:text-8xl text-white tracking-7xl lg:tracking-8xl">Nossa Equipe</h2>
         </div>
         <div className="flex flex-wrap -m-8">
           {team.map((member, index) => (

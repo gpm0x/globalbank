@@ -14,7 +14,7 @@ function SecureAccessSection() {
           <div className="w-full md:w-1/2 p-8">
             <div className="relative z-10 md:max-w-md">
               <span className="inline-block mb-4 text-sm text-green-400 font-medium tracking-tighter">Acesso Seguro</span>
-              <h2 className="font-heading mb-6 text-6xl md:text-7xl text-white tracking-tighter-xl">
+              <h2 className="font-heading mb-6 text-4xl md:text-7xl text-white tracking-tighter-xl">
                 Fazendo história de crédito
               </h2>
               <p className="mb-8 text-white text-opacity-60">
